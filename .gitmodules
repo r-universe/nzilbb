@@ -5,3 +5,6 @@
 [submodule "nzilbb.labbcat"]
 	path = nzilbb.labbcat
 	url = https://github.com/nzilbb/labbcat-r
+[submodule "nzilbb.vowels"]
+	path = nzilbb.vowels
+	url = https://github.com/nzilbb/nzilbb_vowels
